@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RequisicaoLote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="af32f93c-5e9c-4f44-9478-ccc5aca9319e" Versao="1.0.0" xmlns="http://www.banesecard.com.br">
+    <Lojista>
+        <Numero>100</Numero>
+        <Chave>f1b4c67e8bda91d897df2ac98bf9305cac65d11337edc896f0abc4e125829c06</Chave>
+    </Lojista>
+    <NumeroLote>1003</NumeroLote>
+    <TipoOperacao>2</TipoOperacao>
+    <RequisicoesTransacaoLote>
+        <RequisicaoTransacaoLote Id="af32f93c-5e9c-4f44-9478-ccc5aca9319e" Versao="1.0.0">
+            <Portador>
+                <Numero>6361179999999131</Numero>
+                <Validade>1809</Validade>
+                <Indicador>1</Indicador>
+                <CodigoSeguranca>990</CodigoSeguranca>
+                <NomePortador>Banese Card Teste</NomePortador>
+            </Portador>
+            <Pedido>
+                <Numero>1001</Numero>
+                <Valor>100</Valor>
+                <Moeda>76</Moeda>
+                <DataHora>2014-12-24T22:22:22</DataHora>
+                <Idioma>PT</Idioma>
+            </Pedido>
+            <FormaPagamento>
+                <Bandeira>banesecard</Bandeira>
+                <Produto>1</Produto>
+                <Parcelas>1</Parcelas>
+            </FormaPagamento>
+            <Autorizar>3</Autorizar>
+            <Capturar>true</Capturar>
+            <CampoLivre>Teste</CampoLivre>
+            <Bin>636117</Bin>
+            <GerarToken>false</GerarToken>
+        </RequisicaoTransacaoLote>
+        <RequisicaoTransacaoLote Id="af32f93c-5e9c-4f44-9478-ccc5aca9319e" Versao="1.0.0">
+            <Portador>
+                <Numero>6361179999999131</Numero>
+                <Validade>1809</Validade>
+                <Indicador>1</Indicador>
+                <CodigoSeguranca>990</CodigoSeguranca>
+                <NomePortador>Banese Card Teste</NomePortador>
+            </Portador>
+            <Pedido>
+                <Numero>100</Numero>
+                <Valor>1002</Valor>
+                <Moeda>76</Moeda>
+                <DataHora>2014-12-24T22:22:22</DataHora>
+                <Idioma>PT</Idioma>
+            </Pedido>
+            <FormaPagamento>
+                <Bandeira>banesecard</Bandeira>
+                <Produto>1</Produto>
+                <Parcelas>1</Parcelas>
+            </FormaPagamento>
+            <Autorizar>3</Autorizar>
+            <Capturar>true</Capturar>
+            <CampoLivre>Teste</CampoLivre>
+            <Bin>636117</Bin>
+            <GerarToken>false</GerarToken>
+        </RequisicaoTransacaoLote>
+    </RequisicoesTransacaoLote>
+</RequisicaoLote>

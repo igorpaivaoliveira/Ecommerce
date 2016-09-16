@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RequisicaoCancelamento xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="af32f93c-5e9c-4f44-9478-ccc5aca9319e" Versao="1.0.0" xmlns="http://www.banesecard.com.br">
+    <Tid>6447f5c458b99f8ecbf1dcc178088b70637d240feb12c2dc2b7c32a35039317b</Tid>
+    <Lojista>
+        <Numero>100</Numero>
+        <Chave>f1b4c67e8bda91d897df2ac98bf9305cac65d11337edc896f0abc4e1</Chave>
+    </Lojista>
+    <Valor>3000</Valor>
+</RequisicaoCancelamento>
